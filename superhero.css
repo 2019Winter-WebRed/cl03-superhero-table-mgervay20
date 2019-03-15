@@ -1,0 +1,22 @@
+/*
+* Moira Gervay
+* Superhero Table
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body { 
+  background-image: linear-gradient(to right, red, yellow);
+}
+table, td, th {border: 1px solid blue}
+
+table { border-collapse: collapse;}
+
+thead { background-color: lime; }
+tfoot {background-color: deepskyblue; }
